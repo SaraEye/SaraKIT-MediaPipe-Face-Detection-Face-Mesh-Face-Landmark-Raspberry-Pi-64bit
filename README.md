@@ -19,3 +19,5 @@ To utilize SaraKIT for face analysis, follow these steps:
 Both the standard Raspberry Pi MMAL functions and OpenCV functions can be used to capture frames from the camera.
 
 For instructions on how to install MediaPipe on Raspberry Pi, please refer to our separate repository dedicated to this topic.
+
+![SaraKIT_Face](https://github.com/SaraEye/SaraKIT-MediaPipe-Face-Detection-Face-Mesh-Face-Landmark-Raspberry-Pi-64bit/assets/35704910/f3cb2907-a7da-4629-a1a8-a15b9ffb9393)
