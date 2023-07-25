@@ -21,3 +21,32 @@ Both the standard Raspberry Pi MMAL functions and OpenCV functions can be used t
 For instructions on how to install MediaPipe on Raspberry Pi, please refer to our separate repository dedicated to this topic.
 
 ![SaraKIT_Face](https://github.com/SaraEye/SaraKIT-MediaPipe-Face-Detection-Face-Mesh-Face-Landmark-Raspberry-Pi-64bit/assets/35704910/f3cb2907-a7da-4629-a1a8-a15b9ffb9393)
+
+## See more
+
+### SaraKIT - Color Tracking:
+
+![SaraKIT_ColorTracking](https://github.com/SaraEye/SaraKIT-Face-Tracking-MediaPipe-Raspberry-Pi-64bit/assets/35704910/7120ee8a-7612-4d82-8a3c-8cf38c451009)
+
+[Video Link](https://saraai.com/_SaraKIT/video/SaraKIT_ColorTracking.mp4)
+
+### SaraKIT - Object Detection:
+
+![SaraKIT_Object_Detection](https://github.com/SaraEye/SaraKIT-Face-Tracking-MediaPipe-Raspberry-Pi-64bit/assets/35704910/e76bcf47-3d1c-4179-a330-c69601f94a8a)
+
+[Video Link](https://saraai.com/_SaraKIT/video/SaraKIT_Object_Detection.mp4)
+
+### SaraKIT - Field Oriented Control (FOC):
+
+![SaraKIT_field_oriented_control_FOC](https://github.com/SaraEye/SaraKIT-Face-Tracking-MediaPipe-Raspberry-Pi-64bit/assets/35704910/e93a09ee-23c4-44a3-a6e2-f6a2e64c351b)
+
+[Video Link](https://saraai.com/_SaraKIT/video/SaraKIT_field_oriented_control_FOC.mp4)
+
+### SaraKIT - BLDC Gimbal Motors (FOC) vs Servo vs Stepper motor
+
+[YouTube Link](https://youtu.be/Nwvnoo5efzE)
+
+## SaraAI LLC
+
+Website: [https://SaraAI.com](https://SaraAI.com)<br>
+Project Page: [https://SaraKIT.SaraAI.com](https://SaraKIT.SaraAI.com)
