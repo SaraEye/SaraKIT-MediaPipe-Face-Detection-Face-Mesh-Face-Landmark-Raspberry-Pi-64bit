@@ -13,7 +13,7 @@ To utilize SaraKIT for face analysis, follow these steps:
 1. Compile the code by running the command `make`.
 2. Execute the program using `./FaceDetection`.
 3. The program captures frames from the camera, processes them, and sends the output.
-4. Preview the operation in your web browser by accessing the Raspberry Pi's IP address followed by port 7777 (e.g., http://192.168.1.16:7777).
+4. Preview the operation in your web browser by accessing the Raspberry Pi's IP address followed by port 7777 (e.g., http://raspberrypi:7777/ or http://192.168.1.16:7777).
 5. The browser preview displays one or two images side by side, where the content of each image can be customized. By default, the left image shows the camera preview, while the right image displays the detected face along with face landmarks. Refer to the video below for a similar visualization.
 
 Both the standard Raspberry Pi MMAL functions and OpenCV functions can be used to capture frames from the camera.
